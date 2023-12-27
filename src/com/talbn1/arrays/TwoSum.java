@@ -1,6 +1,4 @@
-package talbn1.codeleet.arrays;
-
-import com.sun.jmx.remote.util.EnvHelp;
+package com.talbn1.arrays;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -26,8 +24,7 @@ public class TwoSum {
                 System.out.println(rv[i]);
             }
     }
-
-
+    
 }
 
 class Solution {
@@ -46,7 +43,6 @@ class Solution {
         }
         throw new Exception("error");
     }
-
 }
 
 /*
