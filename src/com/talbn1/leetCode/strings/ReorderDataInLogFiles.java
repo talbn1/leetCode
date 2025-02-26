@@ -1,4 +1,4 @@
-package com.talbn1.strings;
+package com.talbn1.leetCode.strings;
 
 /**
  * @author talbn on 10/7/2020

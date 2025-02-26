@@ -1,4 +1,4 @@
-package com.talbn1.arrays;
+package com.talbn1.leetCode.arrays.success;
 
 /**
  * @author talbn on 6/15/2020

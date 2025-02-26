@@ -1,4 +1,4 @@
-package com.talbn1.arrays;
+package com.talbn1.leetCode.arrays.failed;
 
 import java.util.*;
 

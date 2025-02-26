@@ -1,6 +1,6 @@
-package com.talbn1.solutions.linkedList;
+package com.talbn1.leetCode.linkedList;
 
-import com.talbn1.objects.ListNode;
+import com.talbn1.leetCode.objects.ListNode;
 
 public class AddTwoNumbers {
 

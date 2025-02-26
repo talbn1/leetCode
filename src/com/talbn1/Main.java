@@ -1,8 +1,6 @@
 package com.talbn1;
 
-import com.talbn1.arrays.*;
-import com.talbn1.objects.*;
-import com.talbn1.solutions.linkedList.*;
+import com.talbn1.leetCode.arrays.notStarted.*;
 
 import java.util.*;
 

@@ -1,6 +1,5 @@
-package com.talbn1.arrays;
+package com.talbn1.leetCode.arrays.success;
 
-import java.util.*;
 import java.util.stream.IntStream;
 
 

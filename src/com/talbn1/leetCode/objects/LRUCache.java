@@ -1,4 +1,4 @@
-package com.talbn1.objects;
+package com.talbn1.leetCode.objects;
 
 public class LRUCache {
 

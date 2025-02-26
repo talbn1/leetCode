@@ -1,4 +1,4 @@
-package com.talbn1.strings;
+package com.talbn1.leetCode.strings;
 
 /**
  * @author talbn on 10/7/2020
@@ -11,7 +11,7 @@ public class ReorderDataInLogFilesMAIN {
                 " art zero"};
         
         ReorderDataInLogFiles reorderDataInLogFiles =
-                new com.talbn1.strings.ReorderDataInLogFiles();
+                new com.talbn1.leetCode.strings.ReorderDataInLogFiles();
         
         
         reorderDataInLogFiles.reorderLogFiles(logs);
