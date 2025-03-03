@@ -89,6 +89,17 @@ public class Streams_hash_maps_practice {
         // Non-terminal: entrySet().stream().max()
         // Terminal: get()
         
+        Map<String, Integer> scores = new HashMap<>();
+        scores.put("Alice", 85);
+        scores.put("Bob", 92);
+        scores.put("Charlie", 78);
+        
+        Map.Entry<String,Integer> entrySet =
+                scores.entrySet().stream()
+                        .max(Map.Entry.comparingByValue()).orElse(null);
+        System.out.println(entrySet);
+        
+        System.out.println();
         System.out.println("Problem 53");
         // 53. Find the minimum value in a map
         // Input: {Alice=85, Bob=92, Charlie=78}
@@ -96,6 +107,18 @@ public class Streams_hash_maps_practice {
         // Non-terminal: entrySet().stream().min()
         // Terminal: get()
         
+        Map<String, Integer> scores2 = new HashMap<>();
+        scores2.put("Alice", 85);
+        scores2.put("Bob", 92);
+        scores2.put("Charlie", 78);
+        
+        Map.Entry<String, Integer> minEntry = scores2.entrySet().stream()
+                        .min(Map.Entry.comparingByValue())
+                                .orElse(null);
+        System.out.println(minEntry);
+        
+        
+        System.out.println();
         System.out.println("Problem 54");
         // 54. Convert a map to a list of keys
         // Input: {Alice=85, Bob=92, Charlie=78}
