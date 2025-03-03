@@ -1,4 +1,4 @@
-package com.talbn1.leetCode.strings;
+package com.talbn1.leetCode.arrays.success;
 
 import java.util.*;
 import java.util.stream.*;
