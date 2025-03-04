@@ -67,7 +67,7 @@ public class merge_strings_alternately_1768_acc_81 {
         maxSize = Math.max(word1Size, word2Size);
         
         for (int i = 0; i < maxSize; i++) {
-            if (i < word1Size && i <word2Size) {
+            if (i < word1Size && i < word2Size) {
                 out.append(word1.charAt(i));
                 out.append(word2.charAt(i));
             } else if (i < word1Size && word2Size + word1Size > out.length()) {
@@ -75,7 +75,7 @@ public class merge_strings_alternately_1768_acc_81 {
                     out.append(word1.charAt(j));
                 }
             } else if (i >= word1Size && word2Size + word1Size > out.length()) {
-                for (int j = i; j < word2Size ; j++) {
+                for (int j = i; j < word2Size; j++) {
                     out.append(word2.charAt(j));
                 }
             }

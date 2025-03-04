@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author talbn on 12/20/2023
  **/
-public class PalindromeNumber_9 {
+public class PalindromeNumber_9_acc_58 {
     
     public static void main(String[] args) {
         

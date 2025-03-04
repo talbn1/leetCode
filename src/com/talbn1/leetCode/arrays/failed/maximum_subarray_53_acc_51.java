@@ -1,9 +1,10 @@
 package com.talbn1.leetCode.arrays.failed;
 
+//Array
 /**
  * @author talbn on 6/15/2020
  **/
-public class MaximumSubarray {
+public class maximum_subarray_53_acc_51 {
 
     /**
      * Input: [-2,1,-3,4,-1,2,1,-5,4],
