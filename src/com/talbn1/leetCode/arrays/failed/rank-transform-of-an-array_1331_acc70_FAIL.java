@@ -1,5 +1,9 @@
 package com.talbn1.leetCode.arrays.failed;
 
+//#array
+//#Hash Table
+// #Sorting
+
 import java.util.*;
 
 class RankTransformOfAnArray1331acc70 {
@@ -7,7 +11,7 @@ class RankTransformOfAnArray1331acc70 {
     /**
      * @author talbn on 04/02/2025
      * <p>
-     * #array #Hash Table #Sorting
+
      * <p>
      * 1331. Rank Transform of an Array
      * <p>

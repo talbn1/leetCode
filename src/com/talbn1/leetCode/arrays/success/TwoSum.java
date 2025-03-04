@@ -33,18 +33,18 @@ public class TwoSum {
 class Solution {
 
     public static int[] twoSum(int[] nums, int target) throws Exception {
-
+        
         Map<Integer, Integer> diffmap = new HashMap<>();
-
+        
         for (int i = 0; i < nums.length; i++) {
             int diff = target - nums[i];
-
+            
             if (diffmap.containsKey(diff)) {
                 return new int[]{diffmap.get(diff), i};
             }
             diffmap.put(nums[i], i);
         }
-        throw new Exception("error");
+        return null;
     }
 }
 
