@@ -2,9 +2,9 @@ package com.talbn1.leetCode.arrays.success;
 
 import java.util.*;
 
-//Array
-//Hash Table
-//Sorting
+//#Array
+//#Hash Table
+//#Sorting
 
 class sort_array_by_increasing_frequency_1636_acc80 {
     

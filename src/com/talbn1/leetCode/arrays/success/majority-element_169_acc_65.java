@@ -1,4 +1,5 @@
-package com.talbn1.leetCode.arrays.success;//#Array
+package com.talbn1.leetCode.arrays.success;
+//#Array
 //#Hash Table
 //#Divide and Conquer
 //#Sorting

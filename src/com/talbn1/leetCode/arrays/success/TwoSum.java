@@ -3,6 +3,9 @@ package com.talbn1.leetCode.arrays.success;
 import java.util.HashMap;
 import java.util.Map;
 
+//#Array
+//#Hash Table
+
 /**
  * @author talbn on 6/15/2020
  **/
