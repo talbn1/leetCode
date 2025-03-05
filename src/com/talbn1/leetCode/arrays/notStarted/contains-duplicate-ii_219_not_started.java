@@ -41,10 +41,7 @@ class Scratch {
     public static boolean containsNearbyDuplicate(int[] nums, int k) {
         
         Map <Integer,Integer> map = new HashMap<>();
-        
-        
-        
-        
+
         return false;
     }
 }
